@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Stopwatch [Live Link](https://name-conversion-js.netlify.app/)
+## Stopwatch [Live Link](https://stopwatchfsjs.netlify.app/)
 
 - Skills Gained in this project
 
